@@ -12,6 +12,8 @@ namespace BasicAPI.Model
         public string MobileNo { get; set; }
         public string DOB { get; set; }
 
+        //this model for student detail....
+
 
     }
 }
