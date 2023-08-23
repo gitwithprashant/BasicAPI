@@ -1,0 +1,174 @@
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.BasicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BasicAPI.props
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BasicAPI.props
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BasicAPI.props
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Humanizer.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.CodeDom.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Text.Json.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\ASP.NET Core Web API\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Humanizer.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.CodeDom.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Text.Json.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\DOTNET\BasicAPI\BasicAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.BasicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BasicAPI.props
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BasicAPI.props
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BasicAPI.props
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+E:\DOTNET\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll
